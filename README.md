@@ -41,6 +41,6 @@
 -[ JavaScript Switch Statement](https://www.w3schools.com/js/js_switch.asp)  
 -[ JavaScript While Loop](https://www.w3schools.com/js/js_loop_while.asp)  
 -[ JavaScript For Loop](https://www.w3schools.com/js/js_loop_for.asp)  
-**Video**
+**Video**  
 -[ JS Логічні оператори і все що необхідно про них знати](https://www.youtube.com/watch?v=Nn79iOFiBuY&ab_channel=Front-end%D0%B7%D0%BD%D1%83%D0%BB%D1%8F)  
 -[ Javascript. Оператори порівняння. Логічні оператор...](https://www.youtube.com/watch?v=_dh-fq93NVU&ab_channel=HelloWorld)  
