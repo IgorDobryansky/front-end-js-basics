@@ -26,3 +26,21 @@
 -[ JS з абсолютного нуля. Оператори. Робота зі змінни...](https://www.youtube.com/watch?v=v1EFtU8WUr0&ab_channel=%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%8E)  
 -[ Основи JavaScript, типи даних та змінні](https://www.youtube.com/watch?v=pgirSlwRnHU&ab_channel=LogosITAcademyUA)  
 
+**LESSON 2. LOGICAL OPERATORS, IF...ELSE, SWITCH, LOOPS**  
+
+-[ Логічні оператори](https://www.youtube.com/watch?v=83-_KO7DFYY&t=0s&ab_channel=DANclasses)
+-[ Умовний оператор if. Оператор вибору switch. Терна...](https://www.youtube.com/watch?v=oTggTDXUEoc&t=0s&ab_channel=DANclasses)
+-[ Оператор if](https://learn.javascript.ru/ifelse)
+-[ Логічні оператори](https://learn.javascript.ru/logical-operators)
+-[ Конструкція "switch"](https://learn.javascript.ru/switch)
+-[ Цикли](https://learn.javascript.ru/while-for)
+
+**Optional**
+
+-[ JavaScript if, else, and else if](https://www.w3schools.com/js/js_if_else.asp)
+-[ JavaScript Switch Statement](https://www.w3schools.com/js/js_switch.asp)
+-[ JavaScript While Loop](https://www.w3schools.com/js/js_loop_while.asp)
+-[ JavaScript For Loop](https://www.w3schools.com/js/js_loop_for.asp)
+**Video**
+-[ JS Логічні оператори і все що необхідно про них знати](https://www.youtube.com/watch?v=Nn79iOFiBuY&ab_channel=Front-end%D0%B7%D0%BD%D1%83%D0%BB%D1%8F)
+-[ Javascript. Оператори порівняння. Логічні оператор...](https://www.youtube.com/watch?v=_dh-fq93NVU&ab_channel=HelloWorld)
