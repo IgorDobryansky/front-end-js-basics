@@ -44,3 +44,23 @@
 **Video**  
 -[ JS Логічні оператори і все що необхідно про них знати](https://www.youtube.com/watch?v=Nn79iOFiBuY&ab_channel=Front-end%D0%B7%D0%BD%D1%83%D0%BB%D1%8F)  
 -[ Javascript. Оператори порівняння. Логічні оператор...](https://www.youtube.com/watch?v=_dh-fq93NVU&ab_channel=HelloWorld)  
+
+**LESSON 3. FUNCTIONS, ARROW FUNCTIONS, DEFAULT FUNCTION PARAMETERS**  
+
+-[ Функції](https://www.youtube.com/watch?v=GVGrHndsQSM&t=0s&ab_channel=DANclasses)  
+-[ Область видимості у JavaScript](https://www.youtube.com/watch?v=INYocwkhvgw&t=0s&ab_channel=DANclasses)  
+-[ Стрілкові функції. Значення параметрів за замовчуванням](https://www.youtube.com/watch?v=5ogy7BtVQCg&t=0s&ab_channel=DANclasses)  
+-[ Основи функцій](https://learn.javascript.ru/function-basics)  
+-[ Функції-стрілки, основи](https://learn.javascript.ru/arrow-functions-basics)  
+-[ Функціональні вирази](https://uk.javascript.info/function-expressions)  
+-[ Console](https://developer.mozilla.org/en-US/docs/Web/API/Console)  
+
+**Optional**  
+
+-[ Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)  
+-[ JavaScript Functions](https://www.w3schools.com/js/js_functions.asp)  
+**Video**  
+-[ Функції JavaScript 1](https://www.youtube.com/watch?v=5Rf3B5Fo4VQ&ab_channel=EdEra)  
+-[ Функції javascript 2](https://www.youtube.com/watch?v=eWXSNQJrInc&ab_channel=%D0%92%D1%87%D0%B8%D0%BC%D0%BEjavascriptUA)  
+-[ Для чого нам Функції](https://www.youtube.com/watch?v=F41Wo_-29Zo&ab_channel=%D0%A2%D0%B2%D1%96%D0%B9%D0%9C%D0%B5%D0%BD%D1%82%D0%BE%D1%80)
+
