@@ -1,0 +1,158 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.clock {
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: relative;
+}
+
+.hour {
+    display: flex;
+    justify-content: end;
+    position: absolute;
+    width: 400px;
+    /* border: 1px solid black; */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.hour-1 {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(-60deg);
+}
+
+.hour-2 {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(-30deg);
+}
+
+.hour-3 {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(0deg);
+}
+
+.hour-4 {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(30deg);
+}
+
+.hour-5 {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(60deg);
+}
+
+.hour-6 {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(90deg);
+}
+
+.hour-7 {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(120deg);
+}
+
+.hour-8 {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(150deg);
+}
+
+.hour-9 {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(180deg);
+}
+
+.hour-10 {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(210deg);
+}
+
+.hour-11 {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(240deg);
+}
+
+.hour-12 {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(270deg);
+}
+
+.hours-3,
+.hours-6,
+.hours-9,
+.hours-12 {
+    width: 50px;
+    border: 7px solid black;
+}
+
+.hours-1,
+.hours-2,
+.hours-4,
+.hours-5,
+.hours-7,
+.hours-8,
+.hours-10,
+.hours-11 {
+    width: 30px;
+    border: 5px solid black;
+}
+
+.arrow {
+    position: absolute;
+    width: 400px;
+    display: flex;
+    justify-content: end;
+    /* border: 1px solid black; */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.arrow-second {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(0);
+    padding-right: 55px;
+}
+
+.second-arrow {
+    border: 2px solid black;
+    width: 145px;
+    border-radius: 2px;
+}
+
+.arrow-minute {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(0);
+    padding-right: 80px;
+}
+
+.minute-arrow {
+    border: 5px solid black;
+    width: 120px;
+    border-radius: 5px;
+}
+
+.arrow-hour {
+    transform-origin: center;
+    transform: translate(-50%, -50%) rotate(0);
+    padding-right: 100px;
+}
+
+.hour-arrow {
+    border: 7px solid black;
+    width: 100px;
+    border-radius: 7px;
+}
