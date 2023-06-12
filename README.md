@@ -62,5 +62,22 @@
 **Video**  
 -[ Функції JavaScript 1](https://www.youtube.com/watch?v=5Rf3B5Fo4VQ&ab_channel=EdEra)  
 -[ Функції javascript 2](https://www.youtube.com/watch?v=eWXSNQJrInc&ab_channel=%D0%92%D1%87%D0%B8%D0%BC%D0%BEjavascriptUA)  
--[ Для чого нам Функції](https://www.youtube.com/watch?v=F41Wo_-29Zo&ab_channel=%D0%A2%D0%B2%D1%96%D0%B9%D0%9C%D0%B5%D0%BD%D1%82%D0%BE%D1%80)
+-[ Для чого нам Функції](https://www.youtube.com/watch?v=F41Wo_-29Zo&ab_channel=%D0%A2%D0%B2%D1%96%D0%B9%D0%9C%D0%B5%D0%BD%D1%82%D0%BE%D1%80)  
 
+**LESSON 4. OBJECTS**  
+
+-[ Object. Properties in object.](https://www.youtube.com/watch?v=xaRwJFlVUfg&t=0s&ab_channel=DANclasses)  
+-[ Object. Objects methods. Setter, getter.](https://www.youtube.com/watch?v=kgQzr81PLs0&t=0s&ab_channel=DANclasses)  
+-[ Objects. Copying object. Global Object methods.](https://www.youtube.com/watch?v=8HLv5M2AwII&t=0s&ab_channel=DANclasses)  
+-[ Objects](https://learn.javascript.ru/object)  
+-[ Копіювання об’єктів та посилання](https://learn.javascript.ru/object-copy)  
+-[ JavaScript Objects](https://www.w3schools.com/js/js_objects.asp)  
+
+**Optional**  
+
+-[ OBJECT](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object?retiredLocale=uk)  
+-[ Objects in Javascript](https://www.geeksforgeeks.org/objects-in-javascript/)  
+**Video**  
+-[ Об'єкти в JavaScript](https://www.youtube.com/watch?v=qpOhC3ZkTZw&ab_channel=EdEra)  
+-[ Objects in JavaScript](https://www.youtube.com/watch?v=S1dWe3f2zm0&ab_channel=Telusko)  
+-[ Modern JavaScript Tutorial - Objects](https://www.youtube.com/watch?v=X0ipw1k7ygU&ab_channel=TheNetNinja)
