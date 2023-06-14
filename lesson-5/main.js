@@ -203,3 +203,10 @@ newObj.firstName = "asd";
 // delete obj.firstName
 console.log(obj);
 console.log(newObj);
+
+
+function reverseWords(str) {
+  // Go for it
+  return str.split(" ").map(word => [...word.split("")].revers().join("")).join(" ")
+}
+console.log(reverseWords("This is an example!"));
