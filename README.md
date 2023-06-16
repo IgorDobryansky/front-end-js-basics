@@ -80,4 +80,20 @@
 **Video**  
 -[ Об'єкти в JavaScript](https://www.youtube.com/watch?v=qpOhC3ZkTZw&ab_channel=EdEra)  
 -[ Objects in JavaScript](https://www.youtube.com/watch?v=S1dWe3f2zm0&ab_channel=Telusko)  
--[ Modern JavaScript Tutorial - Objects](https://www.youtube.com/watch?v=X0ipw1k7ygU&ab_channel=TheNetNinja)
+-[ Modern JavaScript Tutorial - Objects](https://www.youtube.com/watch?v=X0ipw1k7ygU&ab_channel=TheNetNinja)  
+
+**LESSON 5. STRINGS. DATE & TIME**  
+
+-[ Рядки](https://learn.javascript.ru/string)  
+-[ Дата і час](https://learn.javascript.ru/date)  
+-[ JavaScript String Methods](https://www.w3schools.com/js/js_string_methods.asp)  
+
+**Optional**  
+
+-[ JavaScript | Date](https://www.geeksforgeeks.org/javascript-date/?ref=lbp)  
+-[ String](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String)  
+-[ JavaScript string](https://www.javascripttutorial.net/javascript-string/)  
+**Video**  
+-[ String methods](https://www.youtube.com/watch?v=uKKEdtNU5II&ab_channel=DevDreamer)  
+-[ JavaScript for Beginners — String Manipulation](https://www.youtube.com/watch?v=nEEp30hWR-o&ab_channel=CodingForEverybody)  
+-[ The Date Object - Getting, Setting & Formatting Da...](https://www.youtube.com/watch?v=-eRsWqwcPuk&ab_channel=dcode)
