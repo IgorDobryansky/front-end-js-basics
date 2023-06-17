@@ -96,4 +96,22 @@
 **Video**  
 -[ String methods](https://www.youtube.com/watch?v=uKKEdtNU5II&ab_channel=DevDreamer)  
 -[ JavaScript for Beginners — String Manipulation](https://www.youtube.com/watch?v=nEEp30hWR-o&ab_channel=CodingForEverybody)  
--[ The Date Object - Getting, Setting & Formatting Da...](https://www.youtube.com/watch?v=-eRsWqwcPuk&ab_channel=dcode)
+-[ The Date Object - Getting, Setting & Formatting Da...](https://www.youtube.com/watch?v=-eRsWqwcPuk&ab_channel=dcode)  
+
+**LESSON 6. ARRAYS**  
+-[ Масиви Створення, зміна, доступ до елементів масиву](https://www.youtube.com/watch?v=-0Nmt7I1bOw&t=0s&ab_channel=DANclasses)  
+-[ Масиви. Методи масивів](https://www.youtube.com/watch?v=ZaNybx7GHjU&t=0s&ab_channel=DANclasses)  
+-[ Rest і Spread у JavaScript. Можливості, про які ви...](https://medium.com/nuances-of-programming/rest-%D0%B8-spread-%D0%B2-javascript-%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%BE-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85-%D0%B2%D1%8B-%D0%BD%D0%B5-%D0%B7%D0%BD%D0%B0%D0%BB%D0%B8-3371dc86b788)  
+-[ Масиви](https://uk.javascript.info/array)  
+-[ Методи масивів](https://uk.javascript.info/array-methods)  
+
+**Optional**  
+
+-[ Корисні методи масивів та об'єктів в JavaScript](https://codeguida.com/post/1405)  
+-[ JavaScript Arrays](https://www.w3schools.com/js/js_arrays.asp)  
+-[ JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)  
+-[ Map та Set](https://uk.javascript.info/map-set)  
+**Video**  
+-[ Масиви та об’єкти як асоціативні масиви](https://www.youtube.com/watch?v=BEJchnL52Nc&ab_channel=EdEra)  
+-[ Javascript Arrays](https://www.youtube.com/watch?v=8FmBEN0XZyI&ab_channel=developedbyed)  
+-[ 8 Must Know JavaScript Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c&ab_channel=WebDevSimplified)
