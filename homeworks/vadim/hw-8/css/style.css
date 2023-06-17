@@ -1,0 +1,200 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@400;500;600&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.main-header {
+  background: #fbf0f4;
+  height: 100vh;
+  max-height: 862px;
+}
+
+.main-nav-list {
+  display: flex;
+}
+
+.main-nav-item a {
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 16px;
+  color: #150101;
+  opacity: 0.6;
+  font-weight: bold;
+  margin-right: 40px;
+}
+
+.main-nav-item-active a {
+  font-size: 15px;
+  line-height: 18px;
+  color: #d23166;
+}
+
+.btn-primary {
+  font-weight: bold;
+  background: #d23166;
+  border-radius: 5px;
+  padding: 14px 50px;
+  color: #fafafa;
+  border: 0;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.main-header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-slogan {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.1em;
+  color: #0f0101;
+  margin-bottom: 6px;
+}
+
+.header-title {
+  font-size: 57px;
+  line-height: 1.21;
+  color: #0f0101;
+  opacity: 0.9;
+  width: 665px;
+  font-family: "Fredoka One", cursive;
+  margin-bottom: 35px;
+}
+
+.header-description {
+  font-family: "Hind Madurai", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  color: #0f0101;
+  opacity: 0.6;
+  width: 523px;
+  margin-bottom: 50px;
+}
+
+.header-title-selected {
+  margin-left: 10px;
+  color: #d23166;
+}
+
+.d-flex {
+  display: flex;
+}
+.header-content-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+
+  /* 100vh - main-header-content */
+  height: calc(100vh - 81px);
+  max-height: calc(862px - 81px);
+}
+.section-options {
+  padding: 100px 0;
+}
+.options-list {
+  display: flex;
+  justify-content: space-between;
+}
+.options-list-item {
+  width: 250px;
+  font-family: "Hind Madurai", sans-serif;
+  color: #000000;
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.03);
+  box-sizing: border-box;
+  border-radius: 7px;
+  padding: 39px;
+}
+.options-list-title {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  margin-top: 24px;
+  margin-bottom: 9px;
+}
+.options-list-text {
+  font-size: 14px;
+  line-height: 19px;
+
+  opacity: 0.6;
+}
+.section-products {
+  padding-top: 137px;
+}
+.products-title {
+  font-family: "Hind Madurai", sans-serif;
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 61px;
+  color: #150101;
+  margin-bottom: 64px;
+  text-align: center;
+}
+.products-list {
+  display: flex;
+  justify-content: center;
+}
+.products-list-item {
+  margin-right: 39px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+  opacity: 0.6;
+}
+.products-list-item.selected {
+  border-bottom: 3px solid #d64374;
+  opacity: 1;
+}
+
+.product-item-title {
+  font-family: "Hind Madurai", sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 36px;
+  color: #000000;
+  margin-top: 110px;
+}
+
+.product-item-description {
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+
+  opacity: 0.7;
+  margin-bottom: 12px;
+}
+
+.product-item-price {
+  font-family: "Hind Madurai", sans-serif;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 36px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.product-item-price .old {
+  font-size: 20px;
+  line-height: 28px;
+  text-decoration-line: line-through;
+  margin-left: 5px;
+
+  opacity: 0.7;
+}
+
+.product-item-content {
+    margin-left: 85px;
+}
+
