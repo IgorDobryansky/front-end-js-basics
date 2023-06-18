@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Todo list</title>
+    <link
+      rel="stylesheet"
+      href="./style.css"
+    />
+    <script
+      type="module"
+      src="./main.js"
+    ></script>
+  </head>
+  <body>
+    <div id="app">
+      <div class="container">
+        <section class="input-todo">
+          <form>
+            <div>
+              <label for="todo-input">Enter todo text</label>
+              <input
+                type="text"
+                class="todo-input"
+                id="todo-input"
+              />
+            </div>
+            <button type="submit">Add todo</button>
+          </form>
+        </section>
+        <section class="filter-todo"></section>
+        <section class="show-todo"></section>
+      </div>
+    </div>
+  </body>
+</html>
