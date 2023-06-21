@@ -114,4 +114,25 @@
 **Video**  
 -[ Масиви та об’єкти як асоціативні масиви](https://www.youtube.com/watch?v=BEJchnL52Nc&ab_channel=EdEra)  
 -[ Javascript Arrays](https://www.youtube.com/watch?v=8FmBEN0XZyI&ab_channel=developedbyed)  
--[ 8 Must Know JavaScript Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c&ab_channel=WebDevSimplified)
+-[ 8 Must Know JavaScript Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c&ab_channel=WebDevSimplified)  
+
+**LESSON 7. WORKING WITH DOM. SEARCHING, READING, MODIFYING DOM ELEMENTS**  
+
+-[ Браузерне оточення, специфікації](https://learn.javascript.ru/browser-environment)  
+-[ DOM-дерево](https://learn.javascript.ru/dom-nodes)  
+-[ Навігація по DOM-елементам](https://learn.javascript.ru/dom-navigation)  
+-[ Пошук: getElement*, querySelector*](https://learn.javascript.ru/searching-elements-dom)  
+-[ Атрибути та властивості](https://learn.javascript.ru/dom-attributes-and-properties)  
+-[ Стилі та класи](https://learn.javascript.ru/styles-and-classes)  
+
+
+**Optional**
+
+-[Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)  
+-[ JavaScript HTML DOM Elements](https://www.w3schools.com/js/js_htmldom_elements.asp)  
+-[ JavaScript HTML DOM - Changing HTML](https://www.w3schools.com/js/js_htmldom_html.asp)  
+-[ Розміри вікна і прокрутка](https://uk.javascript.info/size-and-scroll-window)  
+-[Координати](https://uk.javascript.info/coordinates)  
+**Video**  
+-[ Learn JavaScript DOM Traversal In 15 Minutes](https://www.youtube.com/watch?v=v7rSSy8CaYE&ab_channel=WebDevSimplified)  
+-[ Learn DOM Manipulation In 18 Minutes](https://www.youtube.com/watch?v=y17RuWkWdn8&ab_channel=WebDevSimplified)  
