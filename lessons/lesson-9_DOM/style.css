@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  height: 100vh;
+}
+
+#app {
+  height: 100%;
+  background-color: grey;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: space-around; */
+}
+
+#app .parent{
+  width: 80%;
+  height: 300px;
+  background-color: yellow;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#app .parent .first-sibling,
+#app .parent .second-sibling {
+   padding: 70px;
+   background-color: red;
+}
