@@ -52,3 +52,4 @@ function calculate() {
 }
 calculate();
 console.log();
+console.log();
