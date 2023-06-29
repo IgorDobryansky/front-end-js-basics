@@ -1,0 +1,41 @@
+body {
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    padding: 30px 50px;
+    font-size: 50px;
+}
+
+/* #app{
+    width: 70%;
+    height: 70%;
+    display: flex;
+    background-color: yellow;
+    justify-content: center;
+    align-items: center;
+}
+
+#app.pink{
+background-color: pink;
+} */
+table{
+    border-spacing: 10px;
+}
+td {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+span{
+    display: block;
+}
+
+td.active{
+    background-color: yellow;
+}
