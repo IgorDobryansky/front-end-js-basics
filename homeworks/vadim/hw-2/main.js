@@ -13,3 +13,22 @@
 // Після введення даних додати перевірку їхньої коректності. Якщо користувач не ввів ім'я,
 // або при введенні віку вказав не число - запитати ім'я та вік наново 
 // (при цьому дефолтним значенням для кожної зі змінних має бути введена раніше інформація).
+
+
+let userName;
+let userAge;
+do { (userName = prompt("Ваше Имя?", [userName])) }
+while (userName == "" || userName == null);
+do {
+    userAge = prompt("Ваш возвраст?", [userAge]);
+    result = parseInt(userAge);
+}
+while (isNaN(Number(result)));
+if (+userAge < 18) {
+    alert("You are not allowed to visit this website.");
+} if (+userAge >= 18 && +userAge <= 22) {
+    let confirmUser = confirm(`Are you sure you want to continue? ,${userName}`)
+    if (confirmUser) {
+        alert(`Welcom, ${userName}`)
+    } else { alert("You are not allowed to visit this website.") }
+} else (alert(`Welcom, + userName`))
