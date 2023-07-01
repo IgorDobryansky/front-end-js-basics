@@ -8,3 +8,9 @@
 // які були передані в аргумент, за винятком тих, тип яких був переданий другим аргументом. 
 // Тобто якщо передати масив ['hello', 'world', 23, '23', null], 
 // і другим аргументом передати 'string', то функція поверне масив [23, null].
+let array = ['hello', 'world', 23, '23', null];
+let filterBy = function (arr,datatype){
+    let filterArrNumber= arr.filter(number => typeof number !== datatype )
+    return filterArrNumber
+};
+console.log(filterBy(array,'string'));

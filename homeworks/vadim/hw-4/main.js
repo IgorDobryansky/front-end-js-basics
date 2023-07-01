@@ -11,3 +11,27 @@
 // Після введення даних додати перевірку їхньої коректності. Якщо користувач не ввів числа, 
 // або при вводі вказав не числа, - запитати обидва числа знову (при цьому значенням за 
 // замовчуванням для кожної зі змінних має бути введена інформація раніше).
+
+let numFirst;
+while(!numFirst || isNaN(numFirst) || numFirst < 0){
+    numFirst = + prompt("Первое число")
+}
+let operation= prompt("Введите свойство")
+let numTwo;
+while(!numTwo || isNaN(numTwo) || numTwo < 0 ){
+    numTwo = + prompt("Второе число")
+}
+let allSum = alert(calc(numFirst,operation,numTwo));
+ function calc(a,b,c){
+    switch(b){
+        case "+":return a + c;
+        case "-":return a - c;
+        case "*":return a * c;
+        case "/":return a / c;
+        default: alert("Куда ты жмешь???")
+        
+    }
+
+   
+}
+console.log(calc(numFirst,operation,numTwo));

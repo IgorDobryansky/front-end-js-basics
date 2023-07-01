@@ -12,3 +12,35 @@
 // Необов'язкове завдання підвищеної складності
 // Зробити так, щоб властивості firstName та lastName не можна було змінювати напряму. 
 // Створити функції-сеттери setFirstName() та setLastName(), які дозволять змінити дані властивості.
+
+function createNewUser() { 
+    let firstName= prompt ("Введите свое Имя");
+    let lastName = prompt("Введите вашу фамилию");
+    return {
+        _firstName:firstName,
+        _lastName:lastName,
+        getLogin(){
+            return(this._firstName[0]+ this._lastName).toLowerCase();
+        },
+        setFirstName(value){
+            this._firstName =value;
+        },
+        setLastName(value){
+            this._lastName = value
+        },
+        getFirstName(){
+            return this._firstName
+        },
+        getLastName(){
+            return this._lastName
+        }
+    }
+  
+}
+const ylia = createNewUser();
+console.log(ylia.getLogin());
+const vadim = createNewUser();
+console.log(vadim.getLogin());
+
+
+
