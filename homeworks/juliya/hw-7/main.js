@@ -14,4 +14,3 @@ function filterBy(arr, dataType) {
 const data = ["hello", "world", 23, "23", null];
 const filteredData = filterBy(data, "string");
 console.log(filteredData);
-console.log();
