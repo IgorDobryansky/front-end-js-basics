@@ -51,5 +51,3 @@ function calculate() {
   console.log(`Result: ${result.toFixed(4)}`);
 }
 calculate();
-console.log();
-console.log();
