@@ -11,7 +11,6 @@
 
 // Отримати елементи, вкладені в елемент із класом main-header і вивести їх у консоль. Кожному з елементів присвоїти новий клас nav-item.
 // Знайти всі елементи із класом section-title. Видалити цей клас у цих елементів.
-
 const paragraph = document.querySelectorAll("p");
 console.log(paragraph);
 const arrayOfParagraph = Array.from(paragraph);
@@ -38,4 +37,4 @@ const sectionTitleElements = document.querySelectorAll(".section-title");
 [...sectionTitleElements].forEach((element) => {
   element.classList.remove("section-title");
   console.log(element);
-});
+})
