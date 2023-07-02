@@ -136,3 +136,36 @@
 **Video**  
 -[ Learn JavaScript DOM Traversal In 15 Minutes](https://www.youtube.com/watch?v=v7rSSy8CaYE&ab_channel=WebDevSimplified)  
 -[ Learn DOM Manipulation In 18 Minutes](https://www.youtube.com/watch?v=y17RuWkWdn8&ab_channel=WebDevSimplified)  
+
+**LESSON 8. WORKING WITH EVENTS. BUBBLING & CAPTURING**  
+
+-[ Сторінка: DOMContentLoaded, load, beforeunload, unload](https://learn.javascript.ru/onload-ondomcontentloaded)  
+-[ Дії браузера за замовчуванням](https://learn.javascript.ru/default-browser-action)  
+-[ Делегування подій](https://learn.javascript.ru/event-delegation)  
+
+
+**Optional**
+
+-[ Запуск користувацьких подій](https://uk.javascript.info/dispatch-events)  
+-[ Старт](https://www.geeksforgeeks.org/event-delegation-in-javascript/)  
+**Video**  
+-[ Bubbling vs Capturing in JavaScript | JavaScript Events Tutorial](https://www.youtube.com/watch?v=Q6HAJ6bz7bY&ab_channel=dcode)  
+-[ What is Event Delegation? - JavaScript DOM Tutorial For Beginners](https://www.youtube.com/watch?v=pKzf80F3O0U&ab_channel=dcode)  
+-[ Prevent Default Explained in JavaScript | e.preventDefault() - Tutorial For Beginners](https://www.youtube.com/watch?v=3SNyh57XSIA&ab_channel=dcode)  
+
+**LESSON 9. WORKING WITH EVENTS. ATTACHING EVENTS TO DOM NODES. MOUSE EVENTS**  
+
+-[ Введення у браузерні події](https://learn.javascript.ru/introduction-browser-events)   
+-[ Основи подій миші](https://learn.javascript.ru/mouse-events-basics)  
+
+
+**Optional**
+
+-[ Moving the mouse: mouseover/out, mouseenter/leave](https://javascript.info/mousemove-mouseover-mouseout-mouseenter-mouseleave)  
+-[ Event reference](https://developer.mozilla.org/ru/docs/Web/Events)  
+**Video**  
+-[ Обробка подій | Основи веб-розробки](https://www.youtube.com/watch?v=DEiL84dWkUc&ab_channel=EdEra)  
+-[ A Complete Overview of JavaScript Events - All You Need To Know](https://www.youtube.com/watch?v=YiOlaiscqDY&ab_channel=dcode)  
+-[ Learn Pointer Events In 15 Minutes](https://www.youtube.com/watch?v=MhUCYR9Tb9c&ab_channel=WebDevSimplified)  
+
+
