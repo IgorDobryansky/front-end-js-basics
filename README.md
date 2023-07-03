@@ -168,4 +168,20 @@
 -[ A Complete Overview of JavaScript Events - All You Need To Know](https://www.youtube.com/watch?v=YiOlaiscqDY&ab_channel=dcode)  
 -[ Learn Pointer Events In 15 Minutes](https://www.youtube.com/watch?v=MhUCYR9Tb9c&ab_channel=WebDevSimplified)  
 
+**LESSON 9. WORKING WITH EVENTS. KEYBOARD AND SCROLL EVENTS**  
+
+-[ Клавіатура: keydown та keyup](https://learn.javascript.ru/keyboard-events)  
+-[ Прокрутка](https://learn.javascript.ru/onscroll)  
+-[ Форми: подія та метод submit](https://uk.javascript.info/forms-submit)  
+-[ Фокусування: focus/blur](https://uk.javascript.info/focus-blur)  
+
+
+**Optional**
+
+-[ Events: change, input, cut, copy, paste](https://javascript.info/events-change-input)  
+-[ HTMLFormElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement)  
+**Video**  
+-[ Manipulate Keyboard Keys With Javascript | Keyboard Events](https://www.youtube.com/watch?v=XJohoWGOv0k&ab_channel=ProMakerDev)  
+-[ Keyboard Events with Javascript](https://www.youtube.com/watch?v=YUdc2szWz8Q&ab_channel=iEatWebsites)  
+
 
