@@ -18,13 +18,11 @@ console.log(arrayOfParagraph);
 const newArray = arrayOfParagraph.map((paragraph) => {
   paragraph.style.backgroundColor = "#ff0000";
 });
-console.log(newArray);
 const element = document.querySelector("#optionsList");
 console.log(element);
 console.log(element.parentNode);
 console.log(element.childNodes);
 element.childNodes.forEach((node) => console.log(node.nodeType));
-
 const elementId = document.getElementById("testParagraph");
 elementId.innerHTML = "This is a paragraph";
 console.log(elementId);
@@ -37,4 +35,4 @@ const sectionTitleElements = document.querySelectorAll(".section-title");
 [...sectionTitleElements].forEach((element) => {
   element.classList.remove("section-title");
   console.log(element);
-})
+});

@@ -29,7 +29,7 @@ function createNewUser() {
         return (
           Math.floor(
             (new Date().getTime() - new Date(this._birthDay)) /
-              (24 * 3600 * 365,5 * 1000)
+              (24 * 3600 * 365.5 * 1000)
           ) + " years"
         );
       },
