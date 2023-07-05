@@ -168,7 +168,7 @@
 -[ A Complete Overview of JavaScript Events - All You Need To Know](https://www.youtube.com/watch?v=YiOlaiscqDY&ab_channel=dcode)  
 -[ Learn Pointer Events In 15 Minutes](https://www.youtube.com/watch?v=MhUCYR9Tb9c&ab_channel=WebDevSimplified)  
 
-**LESSON 10. WORKING WITH EVENTS. KEYBOARD AND SCROLL EVENTS**  
+**LESSON 10. WORKING WITH EVENTS. FORM EVENTS. FOCUS & BLUR**  
 
 -[ Клавіатура: keydown та keyup](https://learn.javascript.ru/keyboard-events)  
 -[ Прокрутка](https://learn.javascript.ru/onscroll)  
@@ -184,7 +184,7 @@
 -[ Manipulate Keyboard Keys With Javascript | Keyboard Events](https://www.youtube.com/watch?v=XJohoWGOv0k&ab_channel=ProMakerDev)  
 -[ Keyboard Events with Javascript](https://www.youtube.com/watch?v=YUdc2szWz8Q&ab_channel=iEatWebsites)  
 
-**LESSON 11. WORKING WITH EVENTS. FORM EVENTS. FOCUS & BLUR**  
+**LESSON 11. LOCAL & SESSION STORAGE. SETTIMEOUT & SETINTERVAL. CSS ANIMATION**  
 
 -[ Планування: setTimeout та setInterval](https://learn.javascript.ru/settimeout-setinterval)  
 -[ LocalStorage на пальцях](https://learn.javascript.ru/localstorage)  
