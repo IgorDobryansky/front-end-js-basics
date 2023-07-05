@@ -168,7 +168,7 @@
 -[ A Complete Overview of JavaScript Events - All You Need To Know](https://www.youtube.com/watch?v=YiOlaiscqDY&ab_channel=dcode)  
 -[ Learn Pointer Events In 15 Minutes](https://www.youtube.com/watch?v=MhUCYR9Tb9c&ab_channel=WebDevSimplified)  
 
-**LESSON 9. WORKING WITH EVENTS. KEYBOARD AND SCROLL EVENTS**  
+**LESSON 10. WORKING WITH EVENTS. KEYBOARD AND SCROLL EVENTS**  
 
 -[ Клавіатура: keydown та keyup](https://learn.javascript.ru/keyboard-events)  
 -[ Прокрутка](https://learn.javascript.ru/onscroll)  
@@ -183,5 +183,21 @@
 **Video**  
 -[ Manipulate Keyboard Keys With Javascript | Keyboard Events](https://www.youtube.com/watch?v=XJohoWGOv0k&ab_channel=ProMakerDev)  
 -[ Keyboard Events with Javascript](https://www.youtube.com/watch?v=YUdc2szWz8Q&ab_channel=iEatWebsites)  
+
+**LESSON 11. WORKING WITH EVENTS. FORM EVENTS. FOCUS & BLUR**  
+
+-[ Планування: setTimeout та setInterval](https://learn.javascript.ru/settimeout-setinterval)  
+-[ LocalStorage на пальцях](https://learn.javascript.ru/localstorage)  
+-[ Storage](https://developer.mozilla.org/en-US/docs/Web/API/Storage)  
+
+
+**Optional**
+
+-[ JavaScript animations](https://uk.javascript.info/js-animation)  
+-[ Controlling CSS Animations and Transitions with JavaScript](https://css-tricks.com/controlling-css-animations-transitions-javascript/)  
+**Video**  
+-[ The javaScript method setInterval EXPLAINED in 5 minutes!](https://www.youtube.com/watch?v=GhePFBkdNYk&ab_channel=CodewithAniaKub%C3%B3w)  
+-[ setInterval and setTimeout: timing events - Beau teaches JavaScript](https://www.youtube.com/watch?v=kOcFZV3c75I&ab_channel=freeCodeCamp.org)  
+-[ How to use Local Storage in JavaScript](https://www.youtube.com/watch?v=k8yJCeuP6I8&ab_channel=dcode)
 
 
