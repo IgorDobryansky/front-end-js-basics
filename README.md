@@ -198,6 +198,24 @@
 **Video**  
 -[ The javaScript method setInterval EXPLAINED in 5 minutes!](https://www.youtube.com/watch?v=GhePFBkdNYk&ab_channel=CodewithAniaKub%C3%B3w)  
 -[ setInterval and setTimeout: timing events - Beau teaches JavaScript](https://www.youtube.com/watch?v=kOcFZV3c75I&ab_channel=freeCodeCamp.org)  
--[ How to use Local Storage in JavaScript](https://www.youtube.com/watch?v=k8yJCeuP6I8&ab_channel=dcode)
+-[ How to use Local Storage in JavaScript](https://www.youtube.com/watch?v=k8yJCeuP6I8&ab_channel=dcode)  
+
+**LESSON 12. jQUERY**  
+
+-[ jquery part.1 Подключение библотеки, работа с документацией. 07-12-2020](https://www.youtube.com/watch?v=dpgMJof5Xzs&t=0s&ab_channel=DANclasses)  
+-[ jquery part 2. Работа с атрибутами и свойствами, data атрибуты. 07-12-2020](https://www.youtube.com/watch?v=IdFodAHepYA&t=0s&ab_channel=DANclasses)  
+-[ jquery part 3. Работа с DOM. 07-12-2020](https://www.youtube.com/watch?v=SAtvc3rqoPM&t=0s&ab_channel=DANclasses)  
+-[ jquery part 4. Обработка событий, анимация. 07-12-2020](https://www.youtube.com/watch?v=327NjNM5-aU&t=0s&ab_channel=DANclasses)  
+-[ Як підключити плагін jQuery](https://webhamster.ru/mytetrashare/index/mtb0/4115)  
+-[ jQuery Introduction](https://www.w3schools.com/jquery/jquery_intro.asp)  
+-[ jQuery Tutorial](https://www.tutorialrepublic.com/jquery-tutorial/)  
+
+
+**Optional**
+
+-[ Official docs](https://api.jquery.com/)  
+**Video**  
+-[ jQuery Crash Course [1] - Intro & Selectors](https://www.youtube.com/watch?v=3nrLc_JOF7k&ab_channel=TraversyMedia)  
+-[ Learn jQuery for Beginners - Full Course](https://www.youtube.com/watch?v=ScoURsEM_yU&ab_channel=TechZ)  
 
 
